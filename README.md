@@ -1,24 +1,31 @@
-# todoapp
+# Todo App
 
-## Project setup
+<h3>Deployed  Link</h3>
+<ul>
+<li>
+<a  href="https://todoapp-one-ashy.vercel.app/">🔗 Visit Site Todo App 🌐</a>
+</li>
+</ul>
+
+## Tech stack :
+### Frontend :
+- Vue js
+- CSS
+- Javascript
+
+
+## Run Locally :
+Clone the Project
+```
+https://github.com/kundan799/Todo_App
+``` 
+
+Install Dependencies
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+Run App
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

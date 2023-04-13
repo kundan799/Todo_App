@@ -1,7 +1,7 @@
 <template>
 <div class="caintaner">
     <!-- heading -->
-    <h1 class="text-center"> Todo App</h1>
+    <h1 class="text-center"> Todo App Gabriele</h1>
     <!-- input -->
     <div>
         <input type="text" v-model="task" placeholder="Enter here.." />
